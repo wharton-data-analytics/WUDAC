@@ -11,7 +11,7 @@
 
 - Incredible general resource: [Data Science Masters](https://github.com/datasciencemasters/go) 
 - [Machine Learning / Data Mining](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
-- [Quora: How do I learn Machine Learning?](https://www.quora.com/How-do-I-learn-machine-learning-1)
+- [Learning Machine Learning and NLP from 187 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
 
 
 - [UPenn Data Science Minor](https://catalog.upenn.edu/undergraduate/programs/data-science-minor/)
