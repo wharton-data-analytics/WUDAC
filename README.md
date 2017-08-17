@@ -8,6 +8,7 @@
 - [GitHub Student Pack](https://education.github.com/pack/offers)
 - [Intro to Markdown](https://guides.github.com/features/mastering-markdown/)
 
+----------------------------------------------------------------------------------------------------------------------------
 ## Sources / Repositories:
 
 - Incredible general resource: [Data Science Masters](https://github.com/datasciencemasters/go) 
@@ -22,7 +23,7 @@
 
 ### Data 
 
-#### Sources
+#### Data Sources
 - [Springboard](https://www.springboard.com/blog/free-public-data-sets-data-science-project/) 
   
 #### Open Source Projects
@@ -33,6 +34,7 @@
   >[New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration/data))
   >
 
+----------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages - Data Science Focus
 
 ### Python:
@@ -45,7 +47,6 @@
 
 
 #### Tutorials:
----------------
 
 - 
 
@@ -70,6 +71,7 @@ MySQL Workbench: [Download here](https://dev.mysql.com/downloads/workbench/)
 Check the WUDAC Dropbox for the main resources
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 
+----------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages - Software Engineering / Other
 
 ### Java Script:
@@ -78,8 +80,8 @@ Check the WUDAC Dropbox for the main resources
   > 
 
 
-
-## General Topics d
+----------------------------------------------------------------------------------------------------------------------------
+## General Topics
 
 ### Machine Learning
   > [ML Algorithms explained](https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-friend)
@@ -99,6 +101,7 @@ Check the WUDAC Dropbox for the main resources
   > [How to share your data science portfolio](https://www.dataquest.io/blog/how-to-share-data-science-portfolio/
   > [](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/'
 
+----------------------------------------------------------------------------------------------------------------------------
 ## Official Blogs / Research Sites:
 
 
@@ -131,11 +134,11 @@ Check the WUDAC Dropbox for the main resources
 - [Machine Learning at Berkeley](https://ml.berkeley.edu/)
   
 
-
+----------------------------------------------------------------------------------------------------------------------------
 ## Podcasts:
 
 
-
+----------------------------------------------------------------------------------------------------------------------------
 ## Other Blogs:
 
 - [Ray Zhang (OneRaynyDay)](https://oneraynyday.github.io/) - [Github](https://github.com/OneRaynyDay/)
