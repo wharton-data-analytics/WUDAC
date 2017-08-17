@@ -15,6 +15,7 @@
 - [Learning Machine Learning and NLP from 187 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
 - [Curated list of AI and ML resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 - [150 ML, NLP & Python Tutorials](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
+- [Compilation of ML / Python / Math Cheatsheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 
 
 - [UPenn Data Science Minor](https://catalog.upenn.edu/undergraduate/programs/data-science-minor/)
@@ -36,12 +37,27 @@
 
 ### Python:
 
+#### Topics
 - **Scikit learn** - [Main site](http://scikit-learn.org/stable/index.html)
   > [Pipeline](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) 
+- Data Cleaning / Wrangling / Manipulation
+  > [Tidy data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
+
+
+#### Tutorials:
+     ==========
+
+- 
+
+##### Advanced:
+- [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
   
 ### SQL
 
+MySQL Workbench: [Download here](https://dev.mysql.com/downloads/workbench/)
+
 - Khan Academy
+  ------------
   > [Intro to SQL: Querying and Managing Data](https://www.khanacademy.org/computing/computer-programming/sql)
   > [New SQL Script](https://www.khanacademy.org/computer-programming/new/sql)
 -
@@ -50,6 +66,9 @@
   > [Datatypes](https://www.techonthenet.com/mysql/functions/index.php)
   
 ### R
+
+Check the WUDAC Dropbox for the main resources
+- [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 
 ## Programming Languages - Software Engineering / Other
 
@@ -80,7 +99,7 @@
   > [How to share your data science portfolio](https://www.dataquest.io/blog/how-to-share-data-science-portfolio/
   > [](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/'
 
-## Blogs / Research Sites:
+## Official Blogs / Research Sites:
 
 
 ### Facebook Research
@@ -114,6 +133,12 @@
 
 
 ## Podcasts:
+
+
+
+## Other Blogs:
+
+- [Ray Zhang (OneRaynyDay)](https://oneraynyday.github.io/) - [Github](https://github.com/OneRaynyDay/)
 
 
 
