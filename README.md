@@ -130,8 +130,8 @@ Check the WUDAC Dropbox for the main resources
   > [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 -
 ### Portfolio
-  > [How to share your data science portfolio](https://www.dataquest.io/blog/how-to-share-data-science-portfolio/
-  > [](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/'
+  > [How to share your data science portfolio](https://www.dataquest.io/blog/how-to-share-data-science-portfolio/)
+  > [Github Project - Best Practices](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
 
 ----------------------------------------------------------------------------------------------------------------------------
 ## Official Blogs / Research Sites:
