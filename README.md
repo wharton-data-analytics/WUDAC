@@ -3,11 +3,13 @@
 **Placeholder**
 
 - [WUDAC Private Resources (Password-protected)](https://www.dropbox.com/sh/sz7dng63urg1utz/AAAtvBEB5ovJtmuZS_kqRCLna?dl=0)
-- [Intro to GitHub - Main Guide](https://guides.github.com/activities/hello-world/)
-- [Intro to GitHub - Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/)
 - [GitHub Student Pack](https://education.github.com/pack/offers)
-- [Intro to Markdown](https://guides.github.com/features/mastering-markdown/)
 
+
+**Penn Academics & Organizations**
+- [UPenn Data Science Minor](https://catalog.upenn.edu/undergraduate/programs/data-science-minor/)
+- [Wharton Customer Analytics Initiative](http://wcai.wharton.upenn.edu/)
+  --
 ----------------------------------------------------------------------------------------------------------------------------
 ## Sources / Repositories:
 
@@ -19,7 +21,7 @@
 - [Compilation of ML / Python / Math Cheatsheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 
 
-- [UPenn Data Science Minor](https://catalog.upenn.edu/undergraduate/programs/data-science-minor/)
+
 
 ### Data 
 
@@ -73,6 +75,14 @@ Check the WUDAC Dropbox for the main resources
 
 ----------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages - Software Engineering / Other
+
+### Git / GitHub
+- [Intro to GitHub - Main Guide](https://guides.github.com/activities/hello-world/)
+- [Intro to GitHub - Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/)
+
+- [Intro to Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 
 ### Java Script:
 
