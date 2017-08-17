@@ -66,17 +66,20 @@
   
 ### SQL
 
-MySQL Workbench: [Download here](https://dev.mysql.com/downloads/workbench/)
+- MySQL Workbench: [Download here](https://dev.mysql.com/downloads/workbench/)
+- Quora: [How do I learn SQL?](https://www.quora.com/How-do-I-learn-SQL)
+
+##### Tutorials:
 
 - Khan Academy
-  -
   > **START HERE:** [Intro to SQL: Querying and Managing Data](https://www.khanacademy.org/computing/computer-programming/sql)
   > [Google BigQuery Tutorial](https://www.thinkful.com/learn/google-bigquery-tutorial/)
   > [New SQL Script](https://www.khanacademy.org/computer-programming/new/sql)
 -
 - Topics
   > [Datatypes](https://www.techonthenet.com/mysql/datatypes.php)
-  > [Datatypes](https://www.techonthenet.com/mysql/functions/index.php)
+  > [Functions](https://www.techonthenet.com/mysql/functions/index.php)
+  > [Query Planner](https://www.sqlite.org/queryplanner.html)
   
 ### R
 
@@ -108,9 +111,22 @@ Check the WUDAC Dropbox for the main resources
 ### Java Script:
 
 - [Quora references](https://www.quora.com/What-is-the-best-way-to-learn-JavaScript)
-  > 
 
+- Khan Academy Tutorials
+  > [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/p/making-drawings-with-code)
+  > [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations/intro-games-visualizations/v/welcome-games-visualizations)
+  > [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
+  > [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 
+### HTML:
+
+- [Quora references](https://www.quora.com/What-is-the-best-way-to-learn-JavaScript)
+
+- Khan Academy Tutorials
+  > [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
+  > [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
+  > [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
+  
 ----------------------------------------------------------------------------------------------------------------------------
 ## General Topics
 
@@ -129,7 +145,9 @@ Check the WUDAC Dropbox for the main resources
   > [Recommender Systems Specialization](https://www.coursera.org/specializations/recommender-systems)
 - Deep Learning
   > [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
--
+
+- Databases
+ > [Stanford Repository, self-paced](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) 
 ### Portfolio
   > [How to share your data science portfolio](https://www.dataquest.io/blog/how-to-share-data-science-portfolio/)
   > [Github Project - Best Practices](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
