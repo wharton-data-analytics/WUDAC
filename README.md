@@ -67,6 +67,7 @@
 Check the WUDAC Dropbox for the main resources (WIP)
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 
+- Using SQL in R: [Database Strategy](https://inbo.github.io/tutorials/data-handling-large-files-R.html)
 
 #### Tutorials:
 
@@ -106,15 +107,26 @@ Check the WUDAC Dropbox for the main resources (WIP)
 ----------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages - Software Engineering / Other
 
-To-do: Wordpress, CSS, Bootstrap, PHP, Angular
-
 ### Android
 
-- LinkedIn Learning (Paywall): [iOS](https://www.linkedin.com/learning/topics/android)
+- LinkedIn Learning (Paywall): [Android](https://www.linkedin.com/learning/topics/android)
 
-### C / C++
+### AngularJS
+
+- LinkedIn Learning (Paywall): [AngularJS](https://www.linkedin.com/learning/topics/angular-2)
+
+### Bootstrap
+
+- LinkedIn Learning (Paywall): [Bootstrap](https://www.linkedin.com/learning/topics/bootstrap)
+
+### C++ / C / C# / Objective-C
 
 - Quora: [Learning](https://www.quora.com/How-can-I-learn-C-and-C++)
+- LinkedIn Learning (Paywall): 
+ > [C++](https://www.linkedin.com/learning/topics/c-plus-plus)
+ > [C](https://www.linkedin.com/learning/topics/c-2)
+ > [C#](https://www.linkedin.com/learning/topics/c-sharp)
+ > [Objective-C](https://www.linkedin.com/learning/topics/objective-c)
 
 ### Excel 
 
@@ -133,9 +145,18 @@ To-do: Wordpress, CSS, Bootstrap, PHP, Angular
 - Cognitive Class.ai: [Hadoop 101](https://cognitiveclass.ai/courses/introduction-to-hadoop/)
 
 
+## Haskell 
+
+- LinkedIn Learning (Paywall): [Java](https://www.linkedin.com/learning/topics/haskell)
+
+
 ### HTML/CSS/JS:
 
 - Quora: [Learning](https://www.quora.com/What-is-the-best-way-for-a-beginner-to-learn-HTML-CSS)
+
+- LinkedIn Learning (Paywall): 
+ > [HTML](https://www.linkedin.com/learning/topics/html)
+ > [CSS](https://www.linkedin.com/learning/topics/css-2)
 
 - Khan Academy Tutorials
   > [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
@@ -164,7 +185,7 @@ To-do: Wordpress, CSS, Bootstrap, PHP, Angular
 
 ## Kotlin 
 
-- LinkedIn Learning (Kotlin): [Java](https://www.linkedin.com/learning/topics/kotlin)
+- LinkedIn Learning (Paywall): [Kotlin](https://www.linkedin.com/learning/topics/kotlin)
 
 
 ### MATLAB:
@@ -178,9 +199,17 @@ To-do: Wordpress, CSS, Bootstrap, PHP, Angular
  > [Prerequisites](https://www.quora.com/What-are-the-prerequisites-of-learning-MongoDB)
  > [Learning](https://www.quora.com/How-do-I-start-learning-MongoDB) 
 
+### PHP
+
+- LinkedIn Learning (Paywall): [PHP](https://www.linkedin.com/learning/topics/php)
+
 ### Ruby:
 
 - Quora: [Learning](https://www.quora.com/Whats-the-best-way-for-a-beginner-to-start-learning-Ruby-on-Rails)
+
+### SPSS
+
+- LinkedIn Learning (Paywall): [SPSS](https://www.linkedin.com/learning/topics/spss)
 
 ### Swift
 
@@ -190,6 +219,9 @@ To-do: Wordpress, CSS, Bootstrap, PHP, Angular
 
 - LinkedIn Learning (Paywall): [Tableau](https://www.linkedin.com/learning/topics/tableau)
 
+### Wordpress
+
+- LinkedIn Learning (Paywall): [Wordpress](https://www.linkedin.com/learning/topics/wordpress)
 
 ----------------------------------------------------------------------------------------------------------------------------
 ## General Topics
