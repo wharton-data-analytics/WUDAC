@@ -1,6 +1,6 @@
 # Wharton Undergraduate Data Analytics Club (WUDAC)
 
-**Placeholder**
+**Getting Started**
 
 - [WUDAC Private Resources (Password-protected)](https://www.dropbox.com/sh/sz7dng63urg1utz/AAAtvBEB5ovJtmuZS_kqRCLna?dl=0)
 - [GitHub Student Pack](https://education.github.com/pack/offers)
@@ -9,6 +9,9 @@
 **Penn Academics & Organizations**
 - [UPenn Data Science Minor](https://catalog.upenn.edu/undergraduate/programs/data-science-minor/)
 - [Wharton Customer Analytics Initiative](http://wcai.wharton.upenn.edu/)
+  * [WCAI Recommended Courses for Analytics](http://158m5svqhst1muh402woq8b7.wpengine.netdna-cdn.com/wp-content/uploads/Analytics-Courses-List-1.pdf)
+-
+-
 
 ----------------------------------------------------------------------------------------------------------------------------
 ## Sources / Repositories:
@@ -42,6 +45,9 @@
 ### Python:
 
 #### Topics
+
+- [Pandas](http://pandas.pydata.org/) 
+
 - **Scikit learn** - [Main site](http://scikit-learn.org/stable/index.html)
   > [Pipeline](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) 
 - Data Cleaning / Wrangling / Manipulation
@@ -50,9 +56,11 @@
 
 #### Tutorials:
 
-- 
+###### Beginner / Intermediate
 
-##### Advanced:
+- [Pandas Cookbook](https://github.com/jvns/pandas-cookbook)
+
+###### Advanced:
 - [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
   
 ### SQL
@@ -72,6 +80,17 @@ MySQL Workbench: [Download here](https://dev.mysql.com/downloads/workbench/)
 
 Check the WUDAC Dropbox for the main resources
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+
+
+#### Tutorials:
+
+###### Beginner / Intermediate
+
+- [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651?utm_source=social&utm_medium=hs&utm_campaign=cb)
+
+###### Advanced:
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages - Software Engineering / Other
@@ -103,9 +122,10 @@ Check the WUDAC Dropbox for the main resources
 
 - Machine Learning
   > [Intro to ML - Stanford (Andrew NG)](https://www.coursera.org/learn/machine-learning/)
+- Recommender Systems
   > [Recommender Systems Specialization](https://www.coursera.org/specializations/recommender-systems)
-  >
-  >
+- Deep Learning
+  > [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 ### Portfolio
   > [How to share your data science portfolio](https://www.dataquest.io/blog/how-to-share-data-science-portfolio/
