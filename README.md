@@ -2,6 +2,7 @@
 
 **Placeholder**
 
+- [WUDAC Private Resources (Password-protected](https://www.dropbox.com/sh/sz7dng63urg1utz/AAAtvBEB5ovJtmuZS_kqRCLna?dl=0)
 - [Intro to GitHub - Main Guide](https://guides.github.com/activities/hello-world/)
 - [Intro to GitHub - Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/)
 - [GitHub Student Pack](https://education.github.com/pack/offers)
