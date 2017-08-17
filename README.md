@@ -61,6 +61,21 @@
 - [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 - [Tensorflow](https://github.com/OneRaynyDay/TensorFlow-Examples)
   
+
+### R
+
+Check the WUDAC Dropbox for the main resources (WIP)
+- [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+
+
+#### Tutorials:
+
+###### Beginner / Intermediate
+
+- [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651?utm_source=social&utm_medium=hs&utm_campaign=cb)
+
+###### Advanced:
+
 ### SQL
 
 - MySQL Workbench: [Download here](https://dev.mysql.com/downloads/workbench/)
@@ -87,23 +102,6 @@
    > [Database Fundamentals - Microsoft Virtual Academy](https://www.youtube.com/watch?v=GdeaqBCR5PQ&list=PLIoX3-mcY80hub9r9D9_ltMFW6mdRLLTw)
   - Other 
    >[Query Planner](https://www.sqlite.org/queryplanner.html)
-
-
-### R
-
-Check the WUDAC Dropbox for the main resources
-- [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
-
-
-#### Tutorials:
-
-###### Beginner / Intermediate
-
-- [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651?utm_source=social&utm_medium=hs&utm_campaign=cb)
-
-###### Advanced:
-
-
 
 ----------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages - Software Engineering / Other
