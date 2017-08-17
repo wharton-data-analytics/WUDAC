@@ -105,7 +105,7 @@ Check the WUDAC Dropbox for the main resources (WIP)
    >[Query Planner](https://www.sqlite.org/queryplanner.html)
 
 ----------------------------------------------------------------------------------------------------------------------------
-## Programming Languages - Software Engineering / Other
+## Programming Languages - Software Engineering / Other skills
 
 ### Android
 
@@ -128,18 +128,25 @@ Check the WUDAC Dropbox for the main resources (WIP)
  > [C#](https://www.linkedin.com/learning/topics/c-sharp)
  > [Objective-C](https://www.linkedin.com/learning/topics/objective-c)
 
-### Excel 
+### Cassandra
 
-- LinkedIn Learning (Paywall): [Excel](https://www.linkedin.com/learning/topics/excel)
+- LinkedIn Learning (Paywall): [Cassandra](https://www.linkedin.com/learning/topics/cassandra)
+
+### Excel / VBA
+
+- LinkedIn Learning (Paywall): 
+ > [Excel](https://www.linkedin.com/learning/topics/excel)
+ > [VBA (Visual Basic for Applications)](https://www.linkedin.com/learning/search?keywords=vba)
 
 ### Git / GitHub
 - [Intro to GitHub - Main Guide](https://guides.github.com/activities/hello-world/)
 - [Intro to GitHub - Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/)
 
-- [Intro to Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+### Go
 
-### Hadoop
+- LinkedIn Learning (Paywall): [Go](https://www.linkedin.com/learning/topics/Go)
+
+### Hadoop (Apache)
 
 - Quora: [Learning](https://www.quora.com/How-should-I-start-learning-Hadoop)
 - Cognitive Class.ai: [Hadoop 101](https://cognitiveclass.ai/courses/introduction-to-hadoop/)
@@ -183,6 +190,10 @@ Check the WUDAC Dropbox for the main resources (WIP)
   > [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
   > [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 
+### Julia 
+
+- LinkedIn Learning (Paywall): [Julia](https://www.linkedin.com/learning/topics/julia-2)
+
 ## Kotlin 
 
 - LinkedIn Learning (Paywall): [Kotlin](https://www.linkedin.com/learning/topics/kotlin)
@@ -193,11 +204,20 @@ Check the WUDAC Dropbox for the main resources (WIP)
 - OIDD 311 (...)
 - Quora: [Learning](https://www.quora.com/How-to-learn-MATLAB) / [Resources](https://www.quora.com/What-are-the-best-resources-to-learn-MATLAB)
 
+### Markdown
+
+- [Intro to Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ### MongoDB:
 
 - Quora: 
  > [Prerequisites](https://www.quora.com/What-are-the-prerequisites-of-learning-MongoDB)
  > [Learning](https://www.quora.com/How-do-I-start-learning-MongoDB) 
+
+### Perl
+
+- LinkedIn Learning (Paywall): [Perl](https://www.linkedin.com/learning/topics/perl)
 
 ### PHP
 
@@ -206,6 +226,14 @@ Check the WUDAC Dropbox for the main resources (WIP)
 ### Ruby:
 
 - Quora: [Learning](https://www.quora.com/Whats-the-best-way-for-a-beginner-to-start-learning-Ruby-on-Rails)
+
+### Scala
+
+- LinkedIn Learning (Paywall): [Scala](https://www.linkedin.com/learning/topics/scala-2)
+
+### Spark
+
+- LinkedIn Learning (Paywall): [Apache Spark](https://www.linkedin.com/learning/topics/apache-spark-2)
 
 ### SPSS
 
