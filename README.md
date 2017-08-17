@@ -1,6 +1,7 @@
 # WUDAC
 WUDAC
 
+https://education.github.com/pack/offers 
 
 1) Python:
 
