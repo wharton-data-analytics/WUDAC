@@ -12,6 +12,8 @@
 - Incredible general resource: [Data Science Masters](https://github.com/datasciencemasters/go) 
 - [Machine Learning / Data Mining](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 - [Learning Machine Learning and NLP from 187 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
+- [Curated list of AI and ML resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
+- [150 ML, NLP & Python Tutorials](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
 
 
 - [UPenn Data Science Minor](https://catalog.upenn.edu/undergraduate/programs/data-science-minor/)
@@ -42,8 +44,10 @@
   > [Intro to SQL: Querying and Managing Data](https://www.khanacademy.org/computing/computer-programming/sql)
   > [New SQL Script](https://www.khanacademy.org/computer-programming/new/sql)
 -
--
-
+- Topics
+  > [Datatypes](https://www.techonthenet.com/mysql/datatypes.php)
+  > [Datatypes](https://www.techonthenet.com/mysql/functions/index.php)
+  
 ### R
 
 ## Programming Languages - Software Engineering / Other
