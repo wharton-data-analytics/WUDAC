@@ -62,6 +62,7 @@
 
 ###### Advanced:
 - [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+- [Tensorflow](https://github.com/OneRaynyDay/TensorFlow-Examples)
   
 ### SQL
 
@@ -122,11 +123,12 @@ Check the WUDAC Dropbox for the main resources
 
 - Machine Learning
   > [Intro to ML - Stanford (Andrew NG)](https://www.coursera.org/learn/machine-learning/)
+  > [ML for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
 - Recommender Systems
   > [Recommender Systems Specialization](https://www.coursera.org/specializations/recommender-systems)
 - Deep Learning
   > [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-
+-
 ### Portfolio
   > [How to share your data science portfolio](https://www.dataquest.io/blog/how-to-share-data-science-portfolio/
   > [](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/'
