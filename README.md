@@ -1,4 +1,4 @@
-# WUDAC
+# Wharton Undergraduate Analytics Club (WUDAC)
 
 **Placeholder**
 
