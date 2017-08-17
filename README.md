@@ -36,7 +36,7 @@
   >[New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration/data))
 
 ----------------------------------------------------------------------------------------------------------------------------
-## Programming Languages - Data Science Focus
+## Programming Languages - Data Science Core (Python / R / SQL)
 
 ### Python:
 
