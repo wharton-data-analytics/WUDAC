@@ -106,9 +106,19 @@ Check the WUDAC Dropbox for the main resources (WIP)
 ----------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages - Software Engineering / Other
 
+To-do: Wordpress, CSS, Bootstrap, PHP, Angular
+
+### Android
+
+- LinkedIn Learning (Paywall): [iOS](https://www.linkedin.com/learning/topics/android)
+
 ### C / C++
 
 - Quora: [Learning](https://www.quora.com/How-can-I-learn-C-and-C++)
+
+### Excel 
+
+- LinkedIn Learning (Paywall): [Excel](https://www.linkedin.com/learning/topics/excel)
 
 ### Git / GitHub
 - [Intro to GitHub - Main Guide](https://guides.github.com/activities/hello-world/)
@@ -122,6 +132,7 @@ Check the WUDAC Dropbox for the main resources (WIP)
 - Quora: [Learning](https://www.quora.com/How-should-I-start-learning-Hadoop)
 - Cognitive Class.ai: [Hadoop 101](https://cognitiveclass.ai/courses/introduction-to-hadoop/)
 
+
 ### HTML/CSS/JS:
 
 - Quora: [Learning](https://www.quora.com/What-is-the-best-way-for-a-beginner-to-learn-HTML-CSS)
@@ -131,7 +142,17 @@ Check the WUDAC Dropbox for the main resources (WIP)
   > [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
   > [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
   
-### Java Script:
+### iOS
+
+- LinkedIn Learning (Paywall): [iOS](https://www.linkedin.com/learning/topics/ios)
+
+### Java 
+
+- CIS 110 / 120 (...)
+- 
+- LinkedIn Learning (Paywall): [Java](https://www.linkedin.com/learning/topics/java)
+
+### Javascript:
 
 - Quora: [What is the best way to learn JS?](https://www.quora.com/What-is-the-best-way-to-learn-JavaScript)
 
@@ -140,9 +161,15 @@ Check the WUDAC Dropbox for the main resources (WIP)
   > [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations/intro-games-visualizations/v/welcome-games-visualizations)
   > [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
   > [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
-  
+
+## Kotlin 
+
+- LinkedIn Learning (Kotlin): [Java](https://www.linkedin.com/learning/topics/kotlin)
+
+
 ### MATLAB:
 
+- OIDD 311 (...)
 - Quora: [Learning](https://www.quora.com/How-to-learn-MATLAB) / [Resources](https://www.quora.com/What-are-the-best-resources-to-learn-MATLAB)
 
 ### MongoDB:
@@ -154,7 +181,16 @@ Check the WUDAC Dropbox for the main resources (WIP)
 ### Ruby:
 
 - Quora: [Learning](https://www.quora.com/Whats-the-best-way-for-a-beginner-to-start-learning-Ruby-on-Rails)
-  
+
+### Swift
+
+- LinkedIn Learning (Paywall): [Swift](https://www.linkedin.com/learning/topics/swift-2)
+
+### Tableau
+
+- LinkedIn Learning (Paywall): [Tableau](https://www.linkedin.com/learning/topics/tableau)
+
+
 ----------------------------------------------------------------------------------------------------------------------------
 ## General Topics
 
