@@ -45,7 +45,7 @@
 
 
 #### Tutorials:
-     ==========
+---------------
 
 - 
 
@@ -57,7 +57,7 @@
 MySQL Workbench: [Download here](https://dev.mysql.com/downloads/workbench/)
 
 - Khan Academy
-  ------------
+  -
   > [Intro to SQL: Querying and Managing Data](https://www.khanacademy.org/computing/computer-programming/sql)
   > [New SQL Script](https://www.khanacademy.org/computer-programming/new/sql)
 -
