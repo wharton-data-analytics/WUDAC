@@ -9,7 +9,7 @@
 **Penn Academics & Organizations**
 - [UPenn Data Science Minor](https://catalog.upenn.edu/undergraduate/programs/data-science-minor/)
 - [Wharton Customer Analytics Initiative](http://wcai.wharton.upenn.edu/)
-  --
+
 ----------------------------------------------------------------------------------------------------------------------------
 ## Sources / Repositories:
 
