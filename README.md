@@ -15,7 +15,7 @@
 ## Sources / Repositories:
 
 - **Incredible general resource:** [Data Science Masters](https://github.com/datasciencemasters/go) 
-= [University of Waterloo Data Science](https://github.com/uwaterloo-datascience)
+- [University of Waterloo Data Science](https://github.com/uwaterloo-datascience)
 - [Machine Learning / Data Mining](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 - [Learning Machine Learning and NLP from 187 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
 - [Curated list of AI and ML resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
@@ -253,13 +253,15 @@ Check the WUDAC Dropbox for the main resources (WIP)
 - LinkedIn Learning (Paywall): [Wordpress](https://www.linkedin.com/learning/topics/wordpress)
 
 ----------------------------------------------------------------------------------------------------------------------------
-## General Topics
+## General Topics / Papers
 
 ### Machine Learning
   > [ML Algorithms explained](https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-friend)
 
 ### Deep Learning
+  > [Deep Learning Reading Roadmap](https://github.com/uwaterloo-datascience/Deep-Learning-Papers-Reading-Roadmap)
   > [Generating text with deep learning](https://medium.com/towards-data-science/generating-text-with-deep-learning-8d3ffec3305b)
+  
 
 ### Online Courses
 
