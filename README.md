@@ -7,9 +7,18 @@
 
 
 **Penn Academics & Organizations**
-- [UPenn Data Science Minor](https://catalog.upenn.edu/undergraduate/programs/data-science-minor/)
-- [Wharton Customer Analytics Initiative](http://wcai.wharton.upenn.edu/)
+
+Penn has several organizations and academic programs tailored towards Data Analytics and Data Science, our club is only one of many.
+
+- Wharton Customer Analytics Initiative - [WCAI Home](http://wcai.wharton.upenn.edu/)
+  * WCAI Workshops: [Events](http://wcai.wharton.upenn.edu/events/)
   * [WCAI Recommended Courses for Analytics](http://158m5svqhst1muh402woq8b7.wpengine.netdna-cdn.com/wp-content/uploads/Analytics-Courses-List-1.pdf)
+  
+- [UPenn Data Science Minor](https://catalog.upenn.edu/undergraduate/programs/data-science-minor/)
+
+
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------
 ## Sources / Repositories:
@@ -84,12 +93,16 @@ Check the WUDAC Dropbox for the main resources (WIP)
 - Quora: [Learning](https://www.quora.com/How-do-I-learn-SQL)
 
 ##### Tutorials:
-- LinkedIn Learning (Paywall): [SQL](https://www.linkedin.com/learning/topics/sql)
-- Mode Analytics: [SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
+- WCAI SQL Course (Availability varies per semester, register on
 - Khan Academy
   > [Intro to SQL: Querying and Managing Data](https://www.khanacademy.org/computing/computer-programming/sql)
   > [Google BigQuery Tutorial](https://www.thinkful.com/learn/google-bigquery-tutorial/)
   > [New SQL Script](https://www.khanacademy.org/computer-programming/new/sql)
+- Mode Analytics: [SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
+- W3Schools: [SQL Tutorial](https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in)
+- Head First Labs: [Practice Problems](http://www.headfirstlabs.com/sql_hands_on/)
+
+- LinkedIn Learning (Paywall): [SQL](https://www.linkedin.com/learning/topics/sql)
 
 ##### Topics:
 
