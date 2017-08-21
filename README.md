@@ -71,7 +71,15 @@ Penn has several organizations and academic programs tailored towards Data Analy
   >[New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration/data))
 
 ----------------------------------------------------------------------------------------------------------------------------
-## Programming Languages - Data Science Core (Python / R / SQL)
+## Programming Languages - Data Science Core (Python / R / SQL + AWS)
+
+### Amazon Web Services (AWS) - Cloud Computing Services:
+
+- Create an account: [Home](https://aws.amazon.com/what-is-aws/)
+- AWS Educate for Students: [Apply](https://www.awseducate.com/Application)
+
+
+
 
 ### Python:
 
@@ -175,6 +183,7 @@ Check the WUDAC Dropbox for the main resources (WIP)
 
 ### Excel / VBA
 
+- [Excel Training](https://support.office.com/en-us/article/Excel-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb?ui=en-US&rs=en-US&ad=US)
 - LinkedIn Learning (Paywall): 
  > [Excel](https://www.linkedin.com/learning/topics/excel)
  > [VBA (Visual Basic for Applications)](https://www.linkedin.com/learning/search?keywords=vba)
