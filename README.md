@@ -71,15 +71,16 @@ Penn has several organizations and academic programs tailored towards Data Analy
   >[New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration/data))
 
 ----------------------------------------------------------------------------------------------------------------------------
-## Programming Languages - Data Science Core (Python / R / SQL + AWS)
+## Programming Languages - Data Science Core (Python / R / SQL + AWS + Command Line)
 
 ### Amazon Web Services (AWS) - Cloud Computing Services:
 
 - Create an account: [Home](https://aws.amazon.com/what-is-aws/)
 - AWS Educate for Students: [Apply](https://www.awseducate.com/Application)
 
+### Command Line:
 
-
+- Code Academy: [Learn the command line](https://www.codecademy.com/courses/learn-the-command-line/)
 
 ### Python:
 
