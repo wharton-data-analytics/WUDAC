@@ -1,6 +1,31 @@
 # Wharton Undergraduate Data Analytics Club (WUDAC)
 
+**Welcome!**
+
+Welcome to Wharton Undergraduate Data Analytics' Club. In this repository we host and compile resources for students in the hopes that this will aid in the learning process.
+
+**Upcoming Events**
+
+*August*
+- WCAI PRE-TERM INFO SESSION - [Event Page](http://wcai.wharton.upenn.edu/events/wcai-pre-term-info-session/)
+ * When | Where: 9:00 AM TUESDAY, AUGUST 22 | SHDH 350 
+ * Description: No registration needed; join us in SHDH 350 at 9:00 am for an introduction to the Initiative. (This event is for students only)
+
+
+*September*
+- Inside The Industry with Brett Hurt - [Event Page](http://wcai.wharton.upenn.edu/events/inside-industry-brett-hurt/)
+ * When | Where: 4:30 PM, TUESDAY, SEPTEMBER 19 | LOCATION TBD
+ * Description: Mark your calendars for this installment of Inside the Industry! We’ll have more details and open registration soon.
+
+
+*October*
+- WCAI San Francisco Alumni Event - [Event Page](http://wcai.wharton.upenn.edu/events/wcai-sf-alumni-event/)
+ * When | Where: OCTOBER 4, 2017 | WHARTON SAN FRANCISCO
+ * Description: Save the date for our Bay Area event. Details coming soon.
+ 
 **Getting Started**
+
+If you are a member of WUDAC, our private resources are hosted below. Please make sure to have a Github account, and sign up for the Student pack for free private repositories (2 years).
 
 - [WUDAC Private Resources (Password-protected)](https://www.dropbox.com/sh/sz7dng63urg1utz/AAAtvBEB5ovJtmuZS_kqRCLna?dl=0)
 - [GitHub Student Pack](https://education.github.com/pack/offers)
