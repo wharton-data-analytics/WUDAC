@@ -126,7 +126,9 @@ Check the WUDAC Dropbox for the main resources (WIP)
 - Mode Analytics: [SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
 - W3Schools: [SQL Tutorial](https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in)
 - Head First Labs: [Practice Problems](http://www.headfirstlabs.com/sql_hands_on/)
-
+- SQL Zoo: [Tutorial](https://sqlzoo.net/)
+- SQL Course: [Tutorial](http://www.sqlcourse.com/)
+- HackerRank: [SQL Challenges](https://www.hackerrank.com/domains/sql/select)
 - LinkedIn Learning (Paywall): [SQL](https://www.linkedin.com/learning/topics/sql)
 
 ##### Topics:
