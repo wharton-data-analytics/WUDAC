@@ -8,8 +8,8 @@ Welcome to Wharton Undergraduate Data Analytics' Club. In this repository we hos
 
 *August*
 - WCAI PRE-TERM INFO SESSION - [Event Page](http://wcai.wharton.upenn.edu/events/wcai-pre-term-info-session/)
- * When | Where: 9:00 AM TUESDAY, AUGUST 22 | SHDH 350 
- * Description: No registration needed; join us in SHDH 350 at 9:00 am for an introduction to the Initiative. (This event is for students only)
+ > When | Where: 9:00 AM TUESDAY, AUGUST 22 | SHDH 350 
+ > Description: No registration needed; join us in SHDH 350 at 9:00 am for an introduction to the Initiative. (This event is for students only)
 
 
 *September*
