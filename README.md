@@ -7,21 +7,21 @@ Welcome to Wharton Undergraduate Data Analytics' Club. In this repository we hos
 **Upcoming Events**
 
 *August*
-- WCAI PRE-TERM INFO SESSION - [Event Page](http://wcai.wharton.upenn.edu/events/wcai-pre-term-info-session/)
- > When | Where: 9:00 AM TUESDAY, AUGUST 22 | SHDH 350 
- > Description: No registration needed; join us in SHDH 350 at 9:00 am for an introduction to the Initiative. (This event is for students only)
+1. WCAI PRE-TERM INFO SESSION - [Event Page](http://wcai.wharton.upenn.edu/events/wcai-pre-term-info-session/)
+  - When | Where: 9:00 AM TUESDAY, AUGUST 22 | SHDH 350 
+  - Description: No registration needed; join us in SHDH 350 at 9:00 am for an introduction to the Initiative. (This event is for students only)
 
 
 *September*
-- Inside The Industry with Brett Hurt - [Event Page](http://wcai.wharton.upenn.edu/events/inside-industry-brett-hurt/)
- * When | Where: 4:30 PM, TUESDAY, SEPTEMBER 19 | LOCATION TBD
- * Description: Mark your calendars for this installment of Inside the Industry! We’ll have more details and open registration soon.
+1. Inside The Industry with Brett Hurt - [Event Page](http://wcai.wharton.upenn.edu/events/inside-industry-brett-hurt/)
+  - When | Where: 4:30 PM, TUESDAY, SEPTEMBER 19 | LOCATION TBD
+  - Description: Mark your calendars for this installment of Inside the Industry! We’ll have more details and open registration soon.
 
 
 *October*
-- WCAI San Francisco Alumni Event - [Event Page](http://wcai.wharton.upenn.edu/events/wcai-sf-alumni-event/)
- * When | Where: OCTOBER 4, 2017 | WHARTON SAN FRANCISCO
- * Description: Save the date for our Bay Area event. Details coming soon.
+1. WCAI San Francisco Alumni Event - [Event Page](http://wcai.wharton.upenn.edu/events/wcai-sf-alumni-event/)
+  - When | Where: OCTOBER 4, 2017 | WHARTON SAN FRANCISCO
+  - Description: Save the date for our Bay Area event. Details coming soon.
  
 **Getting Started**
 
