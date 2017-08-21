@@ -314,6 +314,8 @@ Check the WUDAC Dropbox for the main resources (WIP)
 
 ### Online Courses
 
+- Computer Science
+  > Harvard: [CS50 - Introduction to the intellectual enterprises of computer science and the art of programming.](https://cs50.harvard.edu/syllabus)
 - Machine Learning
   > [Intro to ML - Stanford (Andrew NG)](https://www.coursera.org/learn/machine-learning/)
   > [ML for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
