@@ -65,11 +65,11 @@ Penn has several organizations and academic programs tailored towards Data Analy
 - [Springboard](https://www.springboard.com/blog/free-public-data-sets-data-science-project/) 
   
 #### Open Source Projects
-- [Stanford Open Policing Project](https://openpolicing.stanford.edu/)
+A. [Stanford Open Policing Project](https://openpolicing.stanford.edu/)
 
-- [Kaggle](https://www.kaggle.com/)
-  >[New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration/data))
-
+B. [Kaggle](https://www.kaggle.com/)
+  - [New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
+  - [People HR Analytics Repository](https://www.kaggle.com/HRAnalyticRepository/datasets)
 ----------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages - Data Science Core (Python / R / SQL + AWS + Command Line)
 
