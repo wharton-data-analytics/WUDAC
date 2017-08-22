@@ -55,7 +55,7 @@ Penn has several organizations and academic programs tailored towards Data Analy
 - [Curated list of AI and ML resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 - [150 ML, NLP & Python Tutorials](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
 - [Compilation of ML / Python / Math Cheatsheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
-- [Curated list Machine Learning and NLP resources for healthcare](https://medium.com/towards-data-science/curated-list-machine-learning-and-nlp-resources-for-healthcare-35ef6e26ac89]
+- [Curated list Machine Learning and NLP resources for healthcare](https://medium.com/towards-data-science/curated-list-machine-learning-and-nlp-resources-for-healthcare-35ef6e26ac89)
 
 
 
