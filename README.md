@@ -62,9 +62,6 @@ Penn has several organizations and academic programs tailored towards Data Analy
 
 ### Data 
 
-#### Data Sources
-- [Springboard](https://www.springboard.com/blog/free-public-data-sets-data-science-project/) 
-  
 #### Open Source Projects
 A. [Stanford Open Policing Project](https://openpolicing.stanford.edu/)
 
@@ -73,10 +70,31 @@ B. [Kaggle](https://www.kaggle.com/)
   - [People HR Analytics Repository](https://www.kaggle.com/HRAnalyticRepository/datasets)
   
   
+#### Data Sources by size
+
+###### Massive
+
+A. OpenDataSoft - [2600+ OPEN DATA PORTALS AROUND THE WORLD](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/#/united-states)
+
+###### Large
+
+A. [Kaggle](https://www.kaggle.com/)
+
+
+###### Medium
+
+- [Springboard](https://www.springboard.com/blog/free-public-data-sets-data-science-project/) 
+
+
+###### Small 
+
+- *Under Construction*
+  
+  
   
 ## Career
 
-### (Under construction)
+*Under Construction*
 
 ### Resume / Cover Letters
 
