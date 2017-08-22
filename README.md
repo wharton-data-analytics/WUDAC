@@ -143,7 +143,7 @@ Check the WUDAC Dropbox for the main resources (WIP)
 - Quora: [Learning](https://www.quora.com/How-do-I-learn-SQL)
 
 ##### Tutorials:
-- WCAI SQL Course (Availability varies per semester, register on
+- WCAI SQL Course (Availability varies per semester, register [here](http://wcai.wharton.upenn.edu/events/))
 - Khan Academy
   > [Intro to SQL: Querying and Managing Data](https://www.khanacademy.org/computing/computer-programming/sql)
   > [Google BigQuery Tutorial](https://www.thinkful.com/learn/google-bigquery-tutorial/)
