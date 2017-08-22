@@ -41,9 +41,10 @@ Penn has several organizations and academic programs tailored towards Data Analy
   
 - [UPenn Data Science Minor](https://catalog.upenn.edu/undergraduate/programs/data-science-minor/)
 
+----------------------------------------------------------------------------------------------------------------------------
+## Graduate Programs:
 
-
-
+- **NYU:** [MS in Data Science](https://cds.nyu.edu/academics/ms-in-data-science/)
 
 ----------------------------------------------------------------------------------------------------------------------------
 ## Sources / Repositories:
