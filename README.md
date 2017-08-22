@@ -138,6 +138,7 @@ B. Opinion Articles / Tips
 
 ###### Advanced:
 - [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+- Kaggle's 2017 Data Science Bowl 2017: [Full Preprocessing Tutorial](https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial)
 - [Tensorflow](https://github.com/OneRaynyDay/TensorFlow-Examples)
   
 
