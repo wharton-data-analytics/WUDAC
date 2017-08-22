@@ -55,6 +55,7 @@ Penn has several organizations and academic programs tailored towards Data Analy
 - [Curated list of AI and ML resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 - [150 ML, NLP & Python Tutorials](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
 - [Compilation of ML / Python / Math Cheatsheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
+- [Curated list Machine Learning and NLP resources for healthcare](https://medium.com/towards-data-science/curated-list-machine-learning-and-nlp-resources-for-healthcare-35ef6e26ac89]
 
 
 
@@ -70,6 +71,21 @@ A. [Stanford Open Policing Project](https://openpolicing.stanford.edu/)
 B. [Kaggle](https://www.kaggle.com/)
   - [New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
   - [People HR Analytics Repository](https://www.kaggle.com/HRAnalyticRepository/datasets)
+  
+  
+  
+## Career
+
+### (Under construction)
+
+### Resume / Cover Letters
+
+A. Blogs / Sources
+  - Towards Data Science:[Medium](https://medium.com/towards-data-science)
+
+B. Opinion Articles / Tips
+  - [(Op) Covers Letters + Data Science = What You Need to Know](https://medium.com/towards-data-science/covers-letters-data-science-what-you-need-to-know-2421ed6ec0c)
+  - [(Op) Even for Data and Tech Jobs, a Cover Letter is the Best Way to Sell Your Human Skills](https://medium.com/towards-data-science/even-for-data-and-tech-jobs-a-cover-letter-is-the-best-way-to-sell-your-human-skills-252687df9fa7)
 ----------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages - Data Science Core (Python / R / SQL + AWS + Command Line)
 
