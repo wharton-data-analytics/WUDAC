@@ -137,6 +137,12 @@ B. Opinion Articles / Tips
 - Mode Analytics: [Python Tutorial](https://community.modeanalytics.com/python/)
 - [Pandas Cookbook](https://github.com/jvns/pandas-cookbook)
 
+
+
+- FAQS / Troubleshooting:
+  a. Dealing with dataframes/dictionaries
+    (i) [Dataframe from Dictionary with different lengths](https://stackoverflow.com/questions/19736080/creating-dataframe-from-a-dictionary-where-entries-have-different-lengths)
+
 ###### Advanced:
 - [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 - Kaggle's 2017 Data Science Bowl 2017: [Full Preprocessing Tutorial](https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial)
