@@ -217,13 +217,17 @@ Check the WUDAC Dropbox for the main resources (WIP)
 
 ##### Topics:
 
+Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
   - Data types
-   > [Datatypes](https://www.techonthenet.com/mysql/datatypes.php)
-   > [Understanding the data types in SQL Server](https://www.youtube.com/watch?v=HcGDELhtPbg)
-   
+    - [Datatypes](https://www.techonthenet.com/mysql/datatypes.php)
+    - [Understanding the data types in SQL Server](https://www.youtube.com/watch?v=HcGDELhtPbg)
+    - [Datatypes In SQLite Version 3 (!)](https://www.sqlite.org/datatype3.html)
+    
+    
   - Functions
-   > [Functions](https://www.techonthenet.com/mysql/functions/index.php)
-   
+    - [Functions](https://www.techonthenet.com/mysql/functions/index.php)
+    - [SQL Lite Core Functions (!)](https://www.sqlite.org/lang_corefunc.html)
+    - [SQL Lite Date and Time Functions (!)](https://www.sqlite.org/lang_datefunc.html)
   - Databases
    > [Database Fundamentals - Microsoft Virtual Academy](https://www.youtube.com/watch?v=GdeaqBCR5PQ&list=PLIoX3-mcY80hub9r9D9_ltMFW6mdRLLTw)
   - Other 
