@@ -144,6 +144,20 @@ B. Opinion Articles / Tips
 - Data Cleaning / Wrangling / Manipulation
   > [Tidy data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
 
+- Other (ie C, AI, etc)
+  - [Cython](http://cython.org/)
+  - [OpenAI Universe](https://github.com/openai/universe)
+  - [Shogun]()
+  - [Caffe(deprecated)]()
+  - [Caffe2](https://caffe2.ai/docs/tutorials)
+  - [Theano]()
+  - [Zappa]()
+  - [Arrow]()
+  - [Theano]()
+  - [Keras]()
+  - [NLTK (NLP)]()
+  - [Gensim]()
+  - [Statsmodels]()
 
 #### Tutorials:
 
