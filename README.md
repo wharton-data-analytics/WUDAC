@@ -200,6 +200,16 @@ Check the WUDAC Dropbox for the main resources (WIP)
 
 - MySQL Workbench: [Download here](https://dev.mysql.com/downloads/workbench/)
 - Quora: [Learning](https://www.quora.com/How-do-I-learn-SQL)
+= [SQLite DataBase Browser](http://sqlitebrowser.org/)
+= [SQL Teaching (!)](https://www.sqlteaching.com/)
+
+
+= [Google Cloud Platform - BigQuery Reference](https://cloud.google.com/bigquery/docs/reference/legacy-sql)
+
+= [PostgreSQL Exercises](https://www.pgexercises.com/about.html)
+
+= []()
+
 
 ##### Tutorials:
 - WCAI SQL Course (Availability varies per semester, register [here](http://wcai.wharton.upenn.edu/events/))
@@ -207,12 +217,14 @@ Check the WUDAC Dropbox for the main resources (WIP)
   > [Intro to SQL: Querying and Managing Data](https://www.khanacademy.org/computing/computer-programming/sql)
   > [Google BigQuery Tutorial](https://www.thinkful.com/learn/google-bigquery-tutorial/)
   > [New SQL Script](https://www.khanacademy.org/computer-programming/new/sql)
+- [Tutorials Point SQL](https://www.tutorialspoint.com/plsql/)
 - Mode Analytics: [SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
 - W3Schools: [SQL Tutorial](https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in)
 - Head First Labs: [Practice Problems](http://www.headfirstlabs.com/sql_hands_on/)
 - SQL Zoo: [Tutorial](https://sqlzoo.net/)
 - SQL Course: [Tutorial](http://www.sqlcourse.com/)
 - HackerRank: [SQL Challenges](https://www.hackerrank.com/domains/sql/select)
+= [SQL Indexing Advanced Tutorial](http://use-the-index-luke.com/)
 - LinkedIn Learning (Paywall): [SQL](https://www.linkedin.com/learning/topics/sql)
 
 ##### Topics:
