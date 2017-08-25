@@ -272,10 +272,11 @@ Check the WUDAC Dropbox for the main resources (WIP)
 
 - LinkedIn Learning (Paywall): [Go](https://www.linkedin.com/learning/topics/Go)
 
-### Hadoop (Apache)
+### Hadoop (Apache Hadoop)
 
 - Quora: [Learning](https://www.quora.com/How-should-I-start-learning-Hadoop)
 - Cognitive Class.ai: [Hadoop 101](https://cognitiveclass.ai/courses/introduction-to-hadoop/)
+- Mapreduce: [Tutorial](https://hadoop.apache.org/docs/r2.8.0/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html)
 
 
 ## Haskell 
