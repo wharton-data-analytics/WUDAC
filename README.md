@@ -200,15 +200,15 @@ Check the WUDAC Dropbox for the main resources (WIP)
 
 - MySQL Workbench: [Download here](https://dev.mysql.com/downloads/workbench/)
 - Quora: [Learning](https://www.quora.com/How-do-I-learn-SQL)
-= [SQLite DataBase Browser](http://sqlitebrowser.org/)
-= [SQL Teaching (!)](https://www.sqlteaching.com/)
+- [SQLite DataBase Browser](http://sqlitebrowser.org/)
+- [SQL Teaching (!)](https://www.sqlteaching.com/)
 
 
-= [Google Cloud Platform - BigQuery Reference](https://cloud.google.com/bigquery/docs/reference/legacy-sql)
+- [Google Cloud Platform - BigQuery Reference](https://cloud.google.com/bigquery/docs/reference/legacy-sql)
 
-= [PostgreSQL Exercises](https://www.pgexercises.com/about.html)
+- [PostgreSQL Exercises](https://www.pgexercises.com/about.html)
 
-= []()
+- []()
 
 
 ##### Tutorials:
@@ -224,7 +224,7 @@ Check the WUDAC Dropbox for the main resources (WIP)
 - SQL Zoo: [Tutorial](https://sqlzoo.net/)
 - SQL Course: [Tutorial](http://www.sqlcourse.com/)
 - HackerRank: [SQL Challenges](https://www.hackerrank.com/domains/sql/select)
-= [SQL Indexing Advanced Tutorial](http://use-the-index-luke.com/)
+- [SQL Indexing Advanced Tutorial](http://use-the-index-luke.com/)
 - LinkedIn Learning (Paywall): [SQL](https://www.linkedin.com/learning/topics/sql)
 
 ##### Topics:
