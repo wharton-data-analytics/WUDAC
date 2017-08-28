@@ -201,7 +201,7 @@ Check the WUDAC Dropbox for the main resources (WIP)
 - MySQL Workbench: [Download here](https://dev.mysql.com/downloads/workbench/)
 - Quora: [Learning](https://www.quora.com/How-do-I-learn-SQL)
 - [SQLite DataBase Browser](http://sqlitebrowser.org/)
-- [SQL Teaching (!)](https://www.sqlteaching.com/)
+- Crash course: [SQL Teaching (!)](https://www.sqlteaching.com/)
 
 
 - [Google Cloud Platform - BigQuery Reference](https://cloud.google.com/bigquery/docs/reference/legacy-sql)
