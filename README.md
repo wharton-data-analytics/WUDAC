@@ -190,6 +190,13 @@ Check the WUDAC Dropbox for the main resources (WIP)
 
 #### Tutorials:
 
+- Data Manipulation: dplyr package
+  - [dplyr tutorial](http://genomicsclass.github.io/book/pages/dplyr_tutorial.html)
+  - [Introduction to dplyr for Faster Data Manipulation in R
+](https://rpubs.com/justmarkham/dplyr-tutorial)
+  - [DPLYR TUTORIAL (WITH 50 EXAMPLES)](http://www.listendata.com/2016/08/dplyr-tutorial.html)
+  - [Hands-on dplyr tutorial for faster data manipulation in R](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/)
+
 ###### Beginner / Intermediate
 
 - [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651?utm_source=social&utm_medium=hs&utm_campaign=cb)
