@@ -226,6 +226,7 @@ Check the WUDAC Dropbox for the main resources (WIP)
 - HackerRank: [SQL Challenges](https://www.hackerrank.com/domains/sql/select)
 - [SQL Indexing Advanced Tutorial](http://use-the-index-luke.com/)
 - LinkedIn Learning (Paywall): [SQL](https://www.linkedin.com/learning/topics/sql)
+- DataWorld: [Intro to SQL Functions and Groupby](https://data.world/tedpetrou/introduction-to-sql-functions-and-group-by)
 
 ##### Topics:
 
