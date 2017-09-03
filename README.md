@@ -121,6 +121,7 @@ B. Opinion Articles / Tips
 ##### Statistics & Probability
 
 - Quora: [Repository](https://www.quora.com/topic/Statistics-and-Probability-Homework-Question)
+- Jane Street: [Probability & Markets Guide](https://www.janestreet.com/wp-content/themes/janestreet/pdf/trading-interview.pdf)
   
   
   
