@@ -113,6 +113,11 @@ B. Opinion Articles / Tips
 
 #### By Topic
 
+##### Coding 
+
+- Practice problems: [Leetcode](https://leetcode.com/)
+- [HackerRank](https://hackerrank.com/)
+
 ##### Statistics & Probability
 
 - Quora: [Repository](https://www.quora.com/topic/Statistics-and-Probability-Homework-Question)
