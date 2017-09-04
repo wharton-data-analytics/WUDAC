@@ -311,7 +311,8 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 
 ## Haskell 
 
-- LinkedIn Learning (Paywall): [Java](https://www.linkedin.com/learning/topics/haskell)
+- Haskell Tutorial: [Learn You a Haskell](http://learnyouahaskell.com/chapters)
+- LinkedIn Learning (Paywall): [Haskell](https://www.linkedin.com/learning/topics/haskell)
 
 
 ### HTML/CSS/JS:
