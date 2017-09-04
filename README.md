@@ -95,7 +95,8 @@ A. OpenDataSoft - [2600+ OPEN DATA PORTALS AROUND THE WORLD](https://www.opendat
 ----------------------------------------------------------------------------------------------------------------------------
 ## Career
 
-*Under Construction*
+- Incredible Repository: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
+   - More tailored towards Software Engineering, but worth checking out.
 
 ### Resume / Cover Letters
 
