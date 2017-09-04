@@ -52,7 +52,7 @@ Penn has several organizations and academic programs tailored towards Data Analy
 - **Incredible general resource:** [Data Science Masters](https://github.com/datasciencemasters/go) 
 - [University of Waterloo Data Science](https://github.com/uwaterloo-datascience)
 - [Machine Learning / Data Mining](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
-- [Learning Machine Learning and NLP from 187 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
+- [Learning Machine Learning and from 187 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
 - [Curated list of AI and ML resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 - [150 ML, NLP & Python Tutorials](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
 - [Compilation of ML / Python / Math Cheatsheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
@@ -144,7 +144,7 @@ B. Opinion Articles / Tips
 #### Topics
 
 - [Pandas](http://pandas.pydata.org/) 
-
+- [Word2vec Tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 - **Scikit learn** - [Main site](http://scikit-learn.org/stable/index.html)
   > [Pipeline](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) 
 - Data Cleaning / Wrangling / Manipulation
@@ -161,7 +161,7 @@ B. Opinion Articles / Tips
   - [Arrow]()
   - [Theano]()
   - [Keras]()
-  - [NLTK (NLP)]()
+  - [NLTK (NLP)](http://www.nltk.org/book/)
   - [Gensim]()
   - [Statsmodels]()
 
