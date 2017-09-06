@@ -418,12 +418,18 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 ----------------------------------------------------------------------------------------------------------------------------
 ## General Topics / Papers
 
-### Machine Learning
-  > [ML Algorithms explained](https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-friend)
+### Computer Vision
+
+- [ChainerCV: a Library for Deep Learning in Computer Vision](https://arxiv.org/abs/1708.08169v1)
 
 ### Deep Learning
   > [Deep Learning Reading Roadmap](https://github.com/uwaterloo-datascience/Deep-Learning-Papers-Reading-Roadmap)
   > [Generating text with deep learning](https://medium.com/towards-data-science/generating-text-with-deep-learning-8d3ffec3305b)
+
+### Machine Learning
+  > [ML Algorithms explained](https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-friend)
+
+
   
 ### Natural Language Processing (NLP)
 
