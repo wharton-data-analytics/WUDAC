@@ -197,6 +197,7 @@ Check the WUDAC Dropbox for the main resources (WIP)
 
 #### Tutorials:
 
+- Tidyverse: [Home](http://www.tidyverse.org/learn/)
 - Data Manipulation: dplyr package
   - [dplyr tutorial](http://genomicsclass.github.io/book/pages/dplyr_tutorial.html)
   - [Introduction to dplyr for Faster Data Manipulation in R
