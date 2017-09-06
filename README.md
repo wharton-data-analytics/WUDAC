@@ -425,6 +425,9 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
   > [Deep Learning Reading Roadmap](https://github.com/uwaterloo-datascience/Deep-Learning-Papers-Reading-Roadmap)
   > [Generating text with deep learning](https://medium.com/towards-data-science/generating-text-with-deep-learning-8d3ffec3305b)
   
+### Natural Language Processing (NLP)
+
+- [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 
 ### Online Courses
 
