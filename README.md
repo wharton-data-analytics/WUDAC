@@ -109,8 +109,8 @@ B. Opinion Articles / Tips
   
 ### Interview Prep
 
-= How do I prepare for a Data Scientist interview?](https://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview)
-= [How to ace the Data Science interview](https://alyaabbott.wordpress.com/2014/10/01/how-to-ace-a-data-science-interview/)
+- [How do I prepare for a Data Scientist interview?](https://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview)
+- [How to ace the Data Science interview](https://alyaabbott.wordpress.com/2014/10/01/how-to-ace-a-data-science-interview/)
 
 #### By Topic
 
