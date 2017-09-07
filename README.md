@@ -171,6 +171,7 @@ B. Opinion Articles / Tips
 ##### Principal Components Analysis
 
 - [PCA Step-by-step](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
+- [SK-Learn PCA](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
 
 ###### Beginner / Intermediate
 
@@ -190,6 +191,7 @@ B. Opinion Articles / Tips
 - [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 - Kaggle's 2017 Data Science Bowl 2017: [Full Preprocessing Tutorial](https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial)
 - [Tensorflow](https://github.com/OneRaynyDay/TensorFlow-Examples)
+- [Simple Reinforcement Learning](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
   
 
 ### R
