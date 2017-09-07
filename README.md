@@ -140,7 +140,14 @@ B. Opinion Articles / Tips
 
 - Code Academy: [Learn the command line](https://www.codecademy.com/courses/learn-the-command-line/)
 = NYT Configuration: [Tutorial](https://open.nytimes.com/set-up-your-mac-like-an-interactive-news-developer-bb8d2c4097e5)
+
+
 ### Python:
+
+Check the Dropbox resources
+
+- [Practice Python](http://www.practicepython.org/)
+- [Resources for Learner](http://www.practicepython.org/resources-for-learners/)
 
 #### Topics
 
