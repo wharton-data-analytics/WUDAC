@@ -114,6 +114,10 @@ B. Opinion Articles / Tips
 
 #### By Topic
 
+##### Product/Case
+
+- Customer Lifetime Value: [How to calculate CLV](https://blog.kissmetrics.com/how-to-calculate-lifetime-value/?wide=1)
+
 ##### Coding 
 
 - Practice problems: [Leetcode](https://leetcode.com/)
