@@ -172,6 +172,7 @@ B. Opinion Articles / Tips
 
 - [PCA Step-by-step](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
 - [SK-Learn PCA](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+- [t-SNE](https://www.lewuathe.com/t-sne-visualization-by-tensorflow.html)
 
 ###### Beginner / Intermediate
 
