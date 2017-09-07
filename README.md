@@ -58,6 +58,7 @@ Penn has several organizations and academic programs tailored towards Data Analy
 
 ### Data 
 
+- Data Viz - [Roundup](https://medium.com/towards-data-science/data-curious-21-08-2017-a-roundup-of-data-stories-datasets-and-visualizations-from-last-week-366b8101545b)
 #### Open Source Projects
 - [Stanford Open Policing Project](https://openpolicing.stanford.edu/)
 
