@@ -168,6 +168,10 @@ B. Opinion Articles / Tips
 
 #### Tutorials:
 
+##### Principal Components Analysis
+
+- [PCA Step-by-step](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
+
 ###### Beginner / Intermediate
 
 - Mode Analytics: [Python Tutorial](https://community.modeanalytics.com/python/)
@@ -181,7 +185,7 @@ B. Opinion Articles / Tips
 
 ###### Advanced:
 - [PCA in Python](https://plot.ly/ipython-notebooks/principal-component-analysis/)
-  - Other Guides: [1](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html) / [2](https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/)
+  - Other Guides:  [2](https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/)
   -
 - [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 - Kaggle's 2017 Data Science Bowl 2017: [Full Preprocessing Tutorial](https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial)
