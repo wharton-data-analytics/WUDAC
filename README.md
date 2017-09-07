@@ -6,11 +6,6 @@ Welcome to Wharton Undergraduate Data Analytics' Club. In this repository we hos
 
 **Upcoming Events**
 
-*August*
-1. WCAI PRE-TERM INFO SESSION - [Event Page](http://wcai.wharton.upenn.edu/events/wcai-pre-term-info-session/)
-  - When | Where: 9:00 AM TUESDAY, AUGUST 22 | SHDH 350 
-  - Description: No registration needed; join us in SHDH 350 at 9:00 am for an introduction to the Initiative. (This event is for students only)
-
 
 *September*
 1. Inside The Industry with Brett Hurt - [Event Page](http://wcai.wharton.upenn.edu/events/inside-industry-brett-hurt/)
@@ -117,7 +112,7 @@ B. Opinion Articles / Tips
 ##### Product/Case
 
 - Customer Lifetime Value: [How to calculate CLV](https://blog.kissmetrics.com/how-to-calculate-lifetime-value/?wide=1)
-
+- [The Power of CLV: Managing Customer Lifetime Value at IBM](http://blogs.darden.virginia.edu/venkatesanr/files/2012/07/power-of-clv-ibm-practice-prize.pdf)
 ##### Coding 
 
 - Practice problems: [Leetcode](https://leetcode.com/)
