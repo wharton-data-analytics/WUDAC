@@ -227,11 +227,11 @@ Check the WUDAC Dropbox for the main resources (WIP)
 
 ### SQL
 
+- Crash course: [SQL Teaching (!)](https://www.sqlteaching.com/)
 - MySQL Workbench: [Download here](https://dev.mysql.com/downloads/workbench/)
 - Quora: [Learning](https://www.quora.com/How-do-I-learn-SQL)
 - [SQLite DataBase Browser](http://sqlitebrowser.org/)
-- Crash course: [SQL Teaching (!)](https://www.sqlteaching.com/)
-
+- Database/SQL Interview Questions - [ProgrammerInterview.com](http://www.programmerinterview.com/index.php/database-sql/introduction/)
 
 - [Google Cloud Platform - BigQuery Reference](https://cloud.google.com/bigquery/docs/reference/legacy-sql)
 
