@@ -204,6 +204,8 @@ Check the Dropbox resources
 
 ### R
 
+Getting started: [Installation, setup, learning from the basics](http://swirlstats.com/students.html)
+
 Check the WUDAC Dropbox for the main resources (WIP)
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 
