@@ -446,7 +446,9 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 ### Machine Learning
   > [ML Algorithms explained](https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-friend)
 
+### Time-dependent Analysis
 
+- [Time-dependent Classification](http://multithreaded.stitchfix.com/blog/2017/09/08/time-dependent-classification/)
   
 ### Natural Language Processing (NLP)
 
