@@ -200,6 +200,7 @@ Check the Dropbox resources
 - Kaggle's 2017 Data Science Bowl 2017: [Full Preprocessing Tutorial](https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial)
 - [Tensorflow](https://github.com/OneRaynyDay/TensorFlow-Examples)
 - [TensorBoard API](https://www.tensorflow.org/get_started/summaries_and_tensorboard)
+- [TensorBoard Github](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins)
 - [Simple Reinforcement Learning](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
   
 
