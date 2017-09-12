@@ -438,6 +438,7 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 ### Computer Vision
 
 - [ChainerCV: a Library for Deep Learning in Computer Vision](https://arxiv.org/abs/1708.08169v1)
+- Tutorial: [Road-traffic counting with Computer Vision](https://medium.com/@a.nikishaev/tutorial-making-road-traffic-counting-app-based-on-computer-vision-and-opencv-166937911660)
 
 ### Deep Learning
   > [Deep Learning Reading Roadmap](https://github.com/uwaterloo-datascience/Deep-Learning-Papers-Reading-Roadmap)
