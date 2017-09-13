@@ -55,6 +55,10 @@ Penn has several organizations and academic programs tailored towards Data Analy
 
 
 
+## Good Reads:
+
+- [Doing Data Science at Twitter](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6)
+
 
 ### Data 
 
