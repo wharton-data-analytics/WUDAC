@@ -129,6 +129,7 @@ B. Opinion Articles / Tips
     - Statistical Confidence: [How is it calculated?](https://www.quora.com/A-B-Testing-How-is-statistical-confidence-calculated)
 - A/B Testing & SEO: [Guide](https://vwo.com/ab-testing/)
 - [19 A/B Testing Q&A's](https://blog.hubspot.com/blog/tabid/6307/bid/33466/answers-to-the-19-most-frequently-asked-questions-about-a-b-testing.aspx)
+- [Statistical Significance vs. Validity](https://conversionxl.com/blog/statistical-significance-does-not-equal-validity/)
 
 
 ##### Coding 
