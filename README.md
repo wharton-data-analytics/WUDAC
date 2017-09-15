@@ -126,6 +126,7 @@ B. Opinion Articles / Tips
 ###### A/B Testing
 
 - Quora: [Expected A/B testing D.S. interviews and how to prepare](https://www.quora.com/What-kind-of-A-B-testing-questions-should-I-expect-in-a-data-scientist-interview-and-how-should-I-prepare-for-such-questions)
+    - Statistical Confidence: [How is it calculated?](https://www.quora.com/A-B-Testing-How-is-statistical-confidence-calculated)
 
 
 ##### Coding 
