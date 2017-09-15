@@ -132,6 +132,9 @@ B. Opinion Articles / Tips
 - [Statistical Significance vs. Validity](https://conversionxl.com/blog/statistical-significance-does-not-equal-validity/)
 - Columbia Paper: [P-values and Statistical Practice](http://www.stat.columbia.edu/~gelman/research/published/pvalues3.pdf)
 
+
+
+    - (3) $H_0$: *"Disputing a null hypothesis is a matter of running the experiment long enough to rule out an incidental outcome. This concept is also referred to as reaching statistical significance."*
 ##### Coding 
 
 - Practice problems: [Leetcode](https://leetcode.com/)
