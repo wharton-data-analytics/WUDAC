@@ -134,12 +134,18 @@ B. Opinion Articles / Tips
 
 
 Sample Q&A:
-    - Explaining CI's and Significance: *If the statistical test returns significant, then you conclude that the effect is unlikely to arise from random chance alone. If you reject something with 95% confidence, then in the case that there is no true effect, then a result like ours (or a result more extreme than ours) will happen in less than 5% of all possible samples.*
-    - Why is **randomization** important in experimental design? How would you answer the question, does attending local meetups cause Etsy sellers to gather more sales?
-        - *Randomization is at the core of experimentation because it balances out these confounding variables. By assigning 50% of users to a control group and 50% of users to a treatment group, you can ensure that the rough level of seller commitment is on average balanced between the two groups, as is every single other possible confounding variable, measured or not.*
-    - What things might we need to be worried about if we have an experiment with 20 different metrics? What if we run 20 experiments simultaneously?
-        - *The more metrics you are measuring, the more likely you are to get at least one false positive. Ways to attempt to correct for this include changing your confidence level (e.g. Bonferroni Correction) or doing family-wide tests before you dive in to the individual metrics (e.g. Fisher's Protected LSD). However, these are not used often in practice, and most people decide to just proceed with caution and be wary of spurious results.*
-    - Null Hypothesis: *"Disputing a null hypothesis is a matter of running the experiment long enough to rule out an incidental outcome. This concept is also referred to as reaching statistical significance."*
+
+- Explaining CI's and Significance: *If the statistical test returns significant, then you conclude that the effect is unlikely to arise from random chance alone. If you reject something with 95% confidence, then in the case that there is no true effect, then a result like ours (or a result more extreme than ours) will happen in less than 5% of all possible samples.*
+
+- Why is **randomization** important in experimental design? How would you answer the question, does attending local meetups cause Etsy sellers to gather more sales?
+    - *Randomization is at the core of experimentation because it balances out these confounding variables. By assigning 50% of users to a control group and 50% of users to a treatment group, you can ensure that the rough level of seller commitment is on average balanced between the two groups, as is every single other possible confounding variable, measured or not.*
+
+- What things might we need to be worried about if we have an experiment with 20 different metrics? What if we run 20 experiments simultaneously?
+    - *The more metrics you are measuring, the more likely you are to get at least one false positive. Ways to attempt to correct for this include changing your confidence level (e.g. Bonferroni Correction) or doing family-wide tests before you dive in to the individual metrics (e.g. Fisher's Protected LSD). However, these are not used often in practice, and most people decide to just proceed with caution and be wary of spurious results.*
+
+- Null Hypothesis: *"Disputing a null hypothesis is a matter of running the experiment long enough to rule out an incidental outcome. This concept is also referred to as reaching statistical significance."*
+
+
 ##### Coding 
 
 - Practice problems: [Leetcode](https://leetcode.com/)
