@@ -114,10 +114,20 @@ B. Opinion Articles / Tips
 
 #### By Topic
 
+##### Introduction
+
+- To-do: Elevator pitch
+
 ##### Product/Case
 
 - Customer Lifetime Value: [How to calculate CLV](https://blog.kissmetrics.com/how-to-calculate-lifetime-value/?wide=1)
 - [The Power of CLV: Managing Customer Lifetime Value at IBM](http://blogs.darden.virginia.edu/venkatesanr/files/2012/07/power-of-clv-ibm-practice-prize.pdf)
+
+###### A/B Testing
+
+- Quora: [Expected A/B testing D.S. interviews and how to prepare](https://www.quora.com/What-kind-of-A-B-testing-questions-should-I-expect-in-a-data-scientist-interview-and-how-should-I-prepare-for-such-questions)
+
+
 ##### Coding 
 
 - Practice problems: [Leetcode](https://leetcode.com/)
