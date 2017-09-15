@@ -133,8 +133,9 @@ B. Opinion Articles / Tips
 - Columbia Paper: [P-values and Statistical Practice](http://www.stat.columbia.edu/~gelman/research/published/pvalues3.pdf)
 
 
-
-    - (3) $H_0$: *"Disputing a null hypothesis is a matter of running the experiment long enough to rule out an incidental outcome. This concept is also referred to as reaching statistical significance."*
+Sample Q&A:
+    - Explaining CI's and Significance: *If the statistical test returns significant, then you conclude that the effect is unlikely to arise from random chance alone. If you reject something with 95% confidence, then in the case that there is no true effect, then a result like ours (or a result more extreme than ours) will happen in less than 5% of all possible samples.*
+    - Null Hypothesis: *"Disputing a null hypothesis is a matter of running the experiment long enough to rule out an incidental outcome. This concept is also referred to as reaching statistical significance."*
 ##### Coding 
 
 - Practice problems: [Leetcode](https://leetcode.com/)
