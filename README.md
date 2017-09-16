@@ -208,6 +208,8 @@ Check the Dropbox resources
 
 #### Tutorials:
 
+- Mode Analytics: [Python Tutorial](https://community.modeanalytics.com/python/)
+
 ##### Principal Components Analysis
 
 - [PCA Step-by-step](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
