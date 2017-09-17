@@ -2,7 +2,7 @@
 
 **Welcome!**
 
-Welcome to Wharton Undergraduate Data Analytics' Club. In this repository we host and compile resources for students in the hopes that this will aid in the learning process.
+Welcome to Wharton Undergraduate Data Analytics' Club. In this repository we host and compile resources for students in the hopes that this will aid in their learning process.
 
 **Upcoming Events**
 
