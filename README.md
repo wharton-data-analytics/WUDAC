@@ -120,6 +120,7 @@ B. Opinion Articles / Tips
 
 ##### Product/Case
 
+- Cracking the PM Interview, Ch. 14-15 
 - Customer Lifetime Value: [How to calculate CLV](https://blog.kissmetrics.com/how-to-calculate-lifetime-value/?wide=1)
 - [The Power of CLV: Managing Customer Lifetime Value at IBM](http://blogs.darden.virginia.edu/venkatesanr/files/2012/07/power-of-clv-ibm-practice-prize.pdf)
 
