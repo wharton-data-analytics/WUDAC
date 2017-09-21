@@ -6,13 +6,6 @@ Welcome to Wharton Undergraduate Data Analytics' Club. In this repository we hos
 
 **Upcoming Events**
 
-
-*September*
-1. Inside The Industry with Brett Hurt - [Event Page](http://wcai.wharton.upenn.edu/events/inside-industry-brett-hurt/)
-  - When | Where: 4:30 PM, TUESDAY, SEPTEMBER 19 | LOCATION TBD
-  - Description: Mark your calendars for this installment of Inside the Industry! We’ll have more details and open registration soon.
-
-
 *October*
 1. WCAI San Francisco Alumni Event - [Event Page](http://wcai.wharton.upenn.edu/events/wcai-sf-alumni-event/)
   - When | Where: OCTOBER 4, 2017 | WHARTON SAN FRANCISCO
