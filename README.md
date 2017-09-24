@@ -4,13 +4,6 @@
 
 Welcome to Wharton Undergraduate Data Analytics' Club. In this repository we host and compile resources for students in the hopes that this will aid in their learning process.
 
-**Upcoming Events**
-
-*October*
-1. WCAI San Francisco Alumni Event - [Event Page](http://wcai.wharton.upenn.edu/events/wcai-sf-alumni-event/)
-  - When | Where: OCTOBER 4, 2017 | WHARTON SAN FRANCISCO
-  - Description: Save the date for our Bay Area event. Details coming soon.
- 
 **Getting Started**
 
 If you are a member of WUDAC, our private resources are hosted below. Please make sure to have a Github account, and sign up for the Student pack for free private repositories (2 years).
