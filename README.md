@@ -40,6 +40,8 @@ Penn has several organizations and academic programs tailored towards Data Analy
 - [Curated list Machine Learning and NLP resources for healthcare](https://medium.com/towards-data-science/curated-list-machine-learning-and-nlp-resources-for-healthcare-35ef6e26ac89)
 
 
+- **Machine Learning Glossary - **[Google Developers](https://developers.google.com/machine-learning/glossary/)
+
 
 ## Good Reads:
 
