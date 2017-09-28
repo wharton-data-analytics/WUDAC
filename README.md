@@ -146,7 +146,51 @@ Sample Q&A:
   
   
   
+----------------------------------------------------------------------------------------------------------------------------
+## General Topics / Papers
+
+### Chatbots
+
+- 
+
+
+### Computer Vision
+
+- [ChainerCV: a Library for Deep Learning in Computer Vision](https://arxiv.org/abs/1708.08169v1)
+- Tutorial: [Road-traffic counting with Computer Vision](https://medium.com/@a.nikishaev/tutorial-making-road-traffic-counting-app-based-on-computer-vision-and-opencv-166937911660)
+
+### Deep Learning
+  > [Deep Learning Reading Roadmap](https://github.com/uwaterloo-datascience/Deep-Learning-Papers-Reading-Roadmap)
+  > [Generating text with deep learning](https://medium.com/towards-data-science/generating-text-with-deep-learning-8d3ffec3305b)
+
+### Machine Learning
+  > [ML Algorithms explained](https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-friend)
+
+### Time-dependent Analysis
+
+- [Time-dependent Classification](http://multithreaded.stitchfix.com/blog/2017/09/08/time-dependent-classification/)
   
+### Natural Language Processing (NLP)
+
+- [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+
+### Online Courses
+
+- Computer Science
+  > Harvard: [CS50 - Introduction to the intellectual enterprises of computer science and the art of programming.](https://cs50.harvard.edu/syllabus)
+- Machine Learning
+  > [Intro to ML - Stanford (Andrew NG)](https://www.coursera.org/learn/machine-learning/)
+  > [ML for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
+- Recommender Systems
+  > [Recommender Systems Specialization](https://www.coursera.org/specializations/recommender-systems)
+- Deep Learning
+  > [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+
+- Databases
+ > [Stanford Repository, self-paced](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) 
+### Portfolio
+  > [How to share your data science portfolio](https://www.dataquest.io/blog/how-to-share-data-science-portfolio/)
+  > [Github Project - Best Practices](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
   
 ----------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages - Data Science Core (Python / R / SQL + AWS + Command Line)
@@ -456,46 +500,6 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 
 - LinkedIn Learning (Paywall): [Wordpress](https://www.linkedin.com/learning/topics/wordpress)
 
-----------------------------------------------------------------------------------------------------------------------------
-## General Topics / Papers
-
-### Computer Vision
-
-- [ChainerCV: a Library for Deep Learning in Computer Vision](https://arxiv.org/abs/1708.08169v1)
-- Tutorial: [Road-traffic counting with Computer Vision](https://medium.com/@a.nikishaev/tutorial-making-road-traffic-counting-app-based-on-computer-vision-and-opencv-166937911660)
-
-### Deep Learning
-  > [Deep Learning Reading Roadmap](https://github.com/uwaterloo-datascience/Deep-Learning-Papers-Reading-Roadmap)
-  > [Generating text with deep learning](https://medium.com/towards-data-science/generating-text-with-deep-learning-8d3ffec3305b)
-
-### Machine Learning
-  > [ML Algorithms explained](https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-friend)
-
-### Time-dependent Analysis
-
-- [Time-dependent Classification](http://multithreaded.stitchfix.com/blog/2017/09/08/time-dependent-classification/)
-  
-### Natural Language Processing (NLP)
-
-- [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
-
-### Online Courses
-
-- Computer Science
-  > Harvard: [CS50 - Introduction to the intellectual enterprises of computer science and the art of programming.](https://cs50.harvard.edu/syllabus)
-- Machine Learning
-  > [Intro to ML - Stanford (Andrew NG)](https://www.coursera.org/learn/machine-learning/)
-  > [ML for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
-- Recommender Systems
-  > [Recommender Systems Specialization](https://www.coursera.org/specializations/recommender-systems)
-- Deep Learning
-  > [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-
-- Databases
- > [Stanford Repository, self-paced](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) 
-### Portfolio
-  > [How to share your data science portfolio](https://www.dataquest.io/blog/how-to-share-data-science-portfolio/)
-  > [Github Project - Best Practices](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
 
 ----------------------------------------------------------------------------------------------------------------------------
 ## Official Blogs / Research Sites:
