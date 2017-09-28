@@ -151,8 +151,11 @@ Sample Q&A:
 
 ### Chatbots
 
-- 
+##### Guides / Tutorials
+- [Compiled How-to Guide](https://chatbotsmagazine.com/how-to-develop-a-chatbot-from-scratch-62bed1adab8c)
 
+##### APIs
+- [api.ai](https://api.ai/)
 
 ### Computer Vision
 
