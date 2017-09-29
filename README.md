@@ -21,6 +21,8 @@ If you are a member of WUDAC, our private resources are hosted below. Please mak
 
 **Penn Academics & Organizations**
 
+From our WUDAC Alum, James Wang: [What classes should I take at UPenn if I want to become a data scientist?](https://www.quora.com/What-classes-should-I-take-at-UPenn-if-I-want-to-become-a-data-scientist)
+
 Penn has several organizations and academic programs tailored towards Data Analytics and Data Science, our club is only one of many.
 
 - Wharton Customer Analytics Initiative - [WCAI Home](http://wcai.wharton.upenn.edu/)
