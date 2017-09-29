@@ -11,6 +11,13 @@ If you are a member of WUDAC, our private resources are hosted below. Please mak
 - [WUDAC Private Resources (Password-protected)](https://www.dropbox.com/sh/sz7dng63urg1utz/AAAtvBEB5ovJtmuZS_kqRCLna?dl=0)
 - [GitHub Student Pack](https://education.github.com/pack/offers)
 
+**Get the tools**
+
+##### Text Editors
+
+- [Sublime Text 3](http://www.sublimetext.com/3)
+
+
 
 **Penn Academics & Organizations**
 
