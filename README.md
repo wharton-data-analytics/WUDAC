@@ -165,9 +165,13 @@ Sample Q&A:
 ##### Guides / Tutorials
 - [Compiled How-to Guide](https://chatbotsmagazine.com/how-to-develop-a-chatbot-from-scratch-62bed1adab8c)
 
-##### APIs
+##### APIs & Engines
 - [api.ai](https://api.ai/)
-
+- [A List of Recommender Systems and Resources](https://github.com/grahamjenson/list_of_recommender_systems)
+- Amazon:
+  - [Amazon’s Giving Away the AI Behind Its Product Recommendations](https://www.wired.com/2016/05/amazons-giving-away-ai-behind-product-recommendations/)
+  - [Amazon Deep Scalable Sparse Tensor Network Engine (DSSTNE)](https://github.com/amzn/amazon-dsstne) 
+  
 ### Computer Vision
 
 - [ChainerCV: a Library for Deep Learning in Computer Vision](https://arxiv.org/abs/1708.08169v1)
@@ -202,6 +206,7 @@ Sample Q&A:
 
 - Databases
  > [Stanford Repository, self-paced](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) 
+ 
 ### Portfolio
   > [How to share your data science portfolio](https://www.dataquest.io/blog/how-to-share-data-science-portfolio/)
   > [Github Project - Best Practices](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
