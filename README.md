@@ -17,7 +17,9 @@ If you are a member of WUDAC, our private resources are hosted below. Please mak
 
 - [Sublime Text 3](http://www.sublimetext.com/3)
 
+##### Visualization Frameworks
 
+- [D3.js](https://d3js.org/)
 
 **Penn Academics & Organizations**
 
