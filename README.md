@@ -21,6 +21,10 @@ If you are a member of WUDAC, our private resources are hosted below. Please mak
 
 - [D3.js](https://d3js.org/)
 
+##### Database 
+
+- [CouchDB](http://couchdb.apache.org/)
+
 **Penn Academics & Organizations**
 
 From our WUDAC Alum, James Wang: [What classes should I take at UPenn if I want to become a data scientist?](https://www.quora.com/What-classes-should-I-take-at-UPenn-if-I-want-to-become-a-data-scientist)
