@@ -525,7 +525,8 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 ## Official Blogs / Research Sites:
 
 ### AirBnB
-- Airbnb - [Data Projects](http://airbnb.io/projects/data/)
+- [Data Projects](http://airbnb.io/projects/data/)
+- [Airmap View](http://airbnb.io/projects/airmapview/)
 
 ### Facebook Research
 - Research Areas - Data Science:
