@@ -24,7 +24,9 @@ If you are a member of WUDAC, our private resources are hosted below. Please mak
 ##### Database 
 
 - Amazon Web Services - [AWS RBS](http://datascience-enthusiast.com/R/AWS_RDS_R_Python.html)
+- AWS - [Database Products Overview](https://aws.amazon.com/free/databases-free-tier/)
 - [CouchDB](http://couchdb.apache.org/)
+
 
 **Penn Academics & Organizations**
 
