@@ -241,7 +241,7 @@ Sample Q&A:
 ### Python:
 
 Check the Dropbox resources
-
+- [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources. 
 - [Practice Python](http://www.practicepython.org/)
 - [Resources for Learner](http://www.practicepython.org/resources-for-learners/)
 
