@@ -45,6 +45,10 @@ Penn has several organizations and academic programs tailored towards Data Analy
 
 - **NYU:** [MS in Data Science](https://cds.nyu.edu/academics/ms-in-data-science/)
 
+## Fellowships
+
+- [The Data Incubator](https://www.thedataincubator.com/)
+
 ----------------------------------------------------------------------------------------------------------------------------
 ## Sources / Repositories:
 
