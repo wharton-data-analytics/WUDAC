@@ -48,6 +48,8 @@ Penn has several organizations and academic programs tailored towards Data Analy
 ## Fellowships
 
 - [The Data Incubator](https://www.thedataincubator.com/)
+- Insight - [Data Engineering Fellows Program](http://insightdataengineering.com/)
+- Insight - [Data Science Fellows Program](http://http://insightdatascience.com/)
 
 ----------------------------------------------------------------------------------------------------------------------------
 ## Sources / Repositories:
