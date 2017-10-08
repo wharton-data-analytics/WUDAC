@@ -275,11 +275,16 @@ Check the Dropbox resources
 
 - Mode Analytics: [Python Tutorial](https://community.modeanalytics.com/python/)
 
-##### Principal Components Analysis
+#### Algorithms
 
+###### PCA
 - [PCA Step-by-step](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
 - [SK-Learn PCA](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
 - [t-SNE](https://www.lewuathe.com/t-sne-visualization-by-tensorflow.html)
+
+###### K-Means
+- [Intro to K-Means Clustering](https://github.com/datascienceinc/learn-data-science/blob/master/Introduction-to-K-means-Clustering/Notebooks/Introduction-to-K-means-Clustering-Example.ipynb)
+
 
 ###### Beginner / Intermediate
 
