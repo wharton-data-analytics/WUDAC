@@ -113,6 +113,7 @@ A. OpenDataSoft - [2600+ OPEN DATA PORTALS AROUND THE WORLD](https://www.opendat
 ### Job Portals
 
 - [Uncubed](https://uncubed.com/jobs/)
+- [Velvet Jobs](https://www.velvetjobs.com/j) - Paid but can help find applications
 
 ### Resume / Cover Letters
 
