@@ -15,7 +15,9 @@ If you are a member of WUDAC, our private resources are hosted below. Please mak
 
 ##### Text Editors
 
-- [Sublime Text 3](http://www.sublimetext.com/3)
+- [Sublime Text 3](http://www.sublimetext.com/3) - Several addi-ins available
+  - VBScript (See VBA below)
+  - [Anaconda IDE](http://damnwidget.github.io/anaconda/IDE/)
 
 ##### Visualization Frameworks
 
