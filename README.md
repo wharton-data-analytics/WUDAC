@@ -110,6 +110,10 @@ A. OpenDataSoft - [2600+ OPEN DATA PORTALS AROUND THE WORLD](https://www.opendat
 - Incredible Repository: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
    - More tailored towards Software Engineering, but worth checking out.
 
+### Job Portals
+
+- [Uncubed](https://uncubed.com/jobs/)
+
 ### Resume / Cover Letters
 
 A. Blogs / Sources
