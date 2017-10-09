@@ -419,6 +419,8 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 
 ### Excel / VBA
 
+- Sublime Add-in: [VBScript](https://github.com/SublimeText/VBScript)
+
 - [Excel Training](https://support.office.com/en-us/article/Excel-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb?ui=en-US&rs=en-US&ad=US)
 - LinkedIn Learning (Paywall): 
  > [Excel](https://www.linkedin.com/learning/topics/excel)
