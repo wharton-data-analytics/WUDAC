@@ -440,7 +440,7 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 
 - Quora: [Learning](https://www.quora.com/How-should-I-start-learning-Hadoop)
 - Cognitive Class.ai: [Hadoop 101](https://cognitiveclass.ai/courses/introduction-to-hadoop/)
-- Mapreduce: [Tutorial](https://hadoop.apache.org/docs/r2.8.0/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html)
+- MapReduce: [Tutorial](https://hadoop.apache.org/docs/r2.8.0/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) - See NETS212
 
 
 ## Haskell 
