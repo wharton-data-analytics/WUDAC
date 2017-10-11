@@ -256,7 +256,7 @@ Check the Dropbox resources
 
 #### Topics
 
-- [Pandas](http://pandas.pydata.org/) 
+- [Pandas](http://pandas.pydata.org/) - [Github](https://github.com/pandas-dev/pandas)
 - [Word2vec Tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 - **Scikit learn** - [Main site](http://scikit-learn.org/stable/index.html)
   > [Pipeline](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) 
