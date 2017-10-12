@@ -452,7 +452,7 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 ### HTML/CSS/JS:
 
 - Quora: [Learning](https://www.quora.com/What-is-the-best-way-for-a-beginner-to-learn-HTML-CSS)
-
+- [W3Schools](https://www.w3schools.com/)
 - LinkedIn Learning (Paywall): 
  > [HTML](https://www.linkedin.com/learning/topics/html)
  > [CSS](https://www.linkedin.com/learning/topics/css-2)
