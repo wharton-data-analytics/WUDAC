@@ -56,7 +56,8 @@ Penn has several organizations and academic programs tailored towards Data Analy
 ----------------------------------------------------------------------------------------------------------------------------
 ## Sources / Repositories:
 
-- **Incredible general resource:** [Data Science Masters](https://github.com/datasciencemasters/go) 
+- [Grow with Google](https://grow.google/)
+- [Data Science Masters](https://github.com/datasciencemasters/go) 
 - [University of Waterloo Data Science](https://github.com/uwaterloo-datascience)
 - [Machine Learning / Data Mining](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 - [Learning Machine Learning and from 187 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
