@@ -477,6 +477,7 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 
 ### Javascript:
 
+- Udacity - [Introduction to Javascript](https://classroom.udacity.com/courses/ud036)
 - AirBnB - [Javascript Style Guide](http://airbnb.io/projects/javascript/)
 - Quora: [What is the best way to learn JS?](https://www.quora.com/What-is-the-best-way-to-learn-JavaScript)
 - Book: [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
