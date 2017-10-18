@@ -535,6 +535,8 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 
 ### Spark
 
+- [Apache Spark](https://spark.apache.org/)
+- [Spark Examples](https://spark.apache.org/examples.html)
 - LinkedIn Learning (Paywall): [Apache Spark](https://www.linkedin.com/learning/topics/apache-spark-2)
 
 ### SPSS
