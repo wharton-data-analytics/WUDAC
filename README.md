@@ -242,7 +242,7 @@ Sample Q&A:
 - Create an account: [Home](https://aws.amazon.com/what-is-aws/)
 - AWS Educate for Students: [Apply](https://www.awseducate.com/Application)
 
-### Command Line:
+### Command Line / Linux:
 
 - Code Academy: [Learn the command line](https://www.codecademy.com/courses/learn-the-command-line/)
 = NYT Configuration: [Tutorial](https://open.nytimes.com/set-up-your-mac-like-an-interactive-news-developer-bb8d2c4097e5)
@@ -250,8 +250,8 @@ Sample Q&A:
 
 ### Python:
 
-Check the Dropbox resources
 - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources. 
+- [Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 - [Practice Python](http://www.practicepython.org/)
 - [Resources for Learner](http://www.practicepython.org/resources-for-learners/)
 
