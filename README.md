@@ -211,9 +211,15 @@ Sample Q&A:
 
 - [Time-dependent Classification](http://multithreaded.stitchfix.com/blog/2017/09/08/time-dependent-classification/)
   
-### Natural Language Processing (NLP)
+### Natural Language Processing (NLP) / Advanced Text Mining
 
-- [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+##### Algorithms / Key Concepts
+
+- [Porter Stemmer Algorithm](https://tartarus.org/martin/PorterStemmer/)
+- [Radix Tree](https://en.wikipedia.org/wiki/Radix_tree)
+
+##### Courses
+
 
 ### Online Courses
 
@@ -230,6 +236,9 @@ Sample Q&A:
 - Databases
  > [Stanford Repository, self-paced](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) 
  
+- Natural Language Processing (NLP) / Advanced Text Mining 
+ > [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+  
 ### Portfolio
   > [How to share your data science portfolio](https://www.dataquest.io/blog/how-to-share-data-science-portfolio/)
   > [Github Project - Best Practices](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
