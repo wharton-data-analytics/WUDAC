@@ -113,10 +113,12 @@ A. OpenDataSoft - [2600+ OPEN DATA PORTALS AROUND THE WORLD](https://www.opendat
 - Incredible Repository: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
    - More tailored towards Software Engineering, but worth checking out.
 
-### Job Portals
+### Job Portals / Leads
 
 - [Uncubed](https://uncubed.com/jobs/)
 - [Velvet Jobs](https://www.velvetjobs.com/j) - Paid but can help find applications
+- [The 2018 Wealthfront Career Launching Companies List](https://blog.wealthfront.com/2018-wealthfront-career-launching-companies-list/)
+
 
 ### Resume / Cover Letters
 
