@@ -106,7 +106,7 @@ A. OpenDataSoft - [2600+ OPEN DATA PORTALS AROUND THE WORLD](https://www.opendat
 ###### Small 
 
 - A. [Airbnb Listings](http://insideairbnb.com/get-the-data.html)
-  
+- B. Mode Analytics - [5 Public Datasets](https://blog.modeanalytics.com/five-public-dataset/)
 ----------------------------------------------------------------------------------------------------------------------------
 ## Career
 
