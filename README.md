@@ -223,6 +223,7 @@ Sample Q&A:
 
 - [Porter Stemmer Algorithm](https://tartarus.org/martin/PorterStemmer/)
 - [Radix Tree](https://en.wikipedia.org/wiki/Radix_tree)
+- [Convolutional Neural Networks (CNN)](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 
 ##### Courses
 
