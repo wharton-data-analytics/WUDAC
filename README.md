@@ -219,6 +219,11 @@ Sample Q&A:
   
 ### Natural Language Processing (NLP) / Advanced Text Mining
 
+##### Courses
+
+- Cornell CS 4740/5740 : [Introduction to Natural Language Processing](http://www.cs.cornell.edu/courses/cs4740/2017fa/)
+
+
 ##### Algorithms / Key Concepts
 
 - [Porter Stemmer Algorithm](https://tartarus.org/martin/PorterStemmer/)
