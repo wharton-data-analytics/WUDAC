@@ -336,7 +336,7 @@ Sample Q&A:
 - [TensorBoard API](https://www.tensorflow.org/get_started/summaries_and_tensorboard)
 - [TensorBoard Github](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins)
 - [Simple Reinforcement Learning](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
-  
+- CIS 545 - [Deep Learning with Tensorflow Recitation](https://github.com/sonicxml/TensorFlow-DeepLearning-Recitation)
 
 ### R
 
