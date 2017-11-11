@@ -431,6 +431,7 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 ### C++ / C / C# / Objective-C
 
 - Quora: [Learning](https://www.quora.com/How-can-I-learn-C-and-C++)
+- Stack Overflow: [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 - LinkedIn Learning (Paywall): 
  > [C++](https://www.linkedin.com/learning/topics/c-plus-plus)
  > [C](https://www.linkedin.com/learning/topics/c-2)
