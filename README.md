@@ -64,6 +64,8 @@ Penn has several organizations and academic programs tailored towards Data Analy
 - [Data Science Masters](https://github.com/datasciencemasters/go) 
 - [University of Waterloo Data Science](https://github.com/uwaterloo-datascience)
 - [Machine Learning / Data Mining](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
+
+
 - [Learning Machine Learning and from 187 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
 - [Curated list of AI and ML resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 - [150 ML, NLP & Python Tutorials](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
@@ -71,7 +73,19 @@ Penn has several organizations and academic programs tailored towards Data Analy
 - [Curated list Machine Learning and NLP resources for healthcare](https://medium.com/towards-data-science/curated-list-machine-learning-and-nlp-resources-for-healthcare-35ef6e26ac89)
 - [Grow with Google](https://grow.google/)
 - [Startup with Google](https://startup.google.com/) - [Pre-built ML](https://startup.google.com/tools/implement-machine-learning/)
+
+##### Github
+
+- [Data Science Python Notebooks Repo](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [Pattern Classification Resources](https://github.com/rasbt/pattern_classification)
+- [Deep Learning in Python](https://github.com/andersbll/deeppy)
+- []()
+
+
+
 **Machine Learning Glossary**  - [Google Developers](https://developers.google.com/machine-learning/glossary/)
+
+
 
 
 ## Good Reads:
