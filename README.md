@@ -270,9 +270,12 @@ Sample Q&A:
   > [Github Project - Best Practices](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
   
 ----------------------------------------------------------------------------------------------------------------------------
-## Programming Languages - Data Science Core (Python / R / SQL + AWS + Command Line)
+## Programming Languages - Data Science Core (Python / R / SQL + Databases + Shell)
 
-### Amazon Web Services (AWS) - Cloud Computing Services:
+### Databases and Data Engineering
+- Stack Overflow - [Types of Databases](https://stackoverflow.com/questions/18198960/practical-example-for-each-type-of-database-real-cases)
+
+#### Amazon Web Services (AWS) - Cloud Computing Services:
 
 - Create an account: [Home](https://aws.amazon.com/what-is-aws/)
 - AWS Educate for Students: [Apply](https://www.awseducate.com/Application)
@@ -283,7 +286,8 @@ Sample Q&A:
 
 
 
-### Command Line / Linux:
+
+##### Command Line / Linux:
 
 - Code Academy: [Learn the command line](https://www.codecademy.com/courses/learn-the-command-line/)
 = NYT Configuration: [Tutorial](https://open.nytimes.com/set-up-your-mac-like-an-interactive-news-developer-bb8d2c4097e5)
