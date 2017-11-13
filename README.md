@@ -277,6 +277,12 @@ Sample Q&A:
 - Create an account: [Home](https://aws.amazon.com/what-is-aws/)
 - AWS Educate for Students: [Apply](https://www.awseducate.com/Application)
 
+
+##### AWS Lambda 
+- [Guides Youtube](https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ)
+
+
+
 ### Command Line / Linux:
 
 - Code Academy: [Learn the command line](https://www.codecademy.com/courses/learn-the-command-line/)
