@@ -497,7 +497,7 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 - LinkedIn Learning (Paywall): [Haskell](https://www.linkedin.com/learning/topics/haskell)
 
 
-### HTML/CSS/JS:
+### HTML/CSS/JS/Other:
 
 - Quora: [Learning](https://www.quora.com/What-is-the-best-way-for-a-beginner-to-learn-HTML-CSS)
 - Dash: [LEARN TO CODE AWESOME WEBSITES IN HTML, CSS, AND JAVASCRIPT](https://dash.generalassemb.ly/)
@@ -511,6 +511,9 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
   > [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
   > [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
   > [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
+
+- Chat Interface: Socket.io
+  > [Socket.io](https://socket.io/get-started/chat/)
   
 ### iOS
 
