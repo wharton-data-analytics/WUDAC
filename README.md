@@ -513,8 +513,6 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
   > [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
   > [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 
-- Chat Interface: Socket.io
-  > [Socket.io](https://socket.io/get-started/chat/)
   
 ### iOS
 
@@ -538,9 +536,17 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
   > [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
   > [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 
-##### Node.js
+##### General Topics
+
+- Asynchronous Javascript:
+  > [Art of Node](https://github.com/maxogden/art-of-node#callbacks)
+- Chat Interface: Socket.io
+  > [Socket.io](https://socket.io/get-started/chat/)
+  
+###### Node.js
 
 - Guide to Node.js - [InfoWorld](https://www.infoworld.com/article/3202764/node-js/the-complete-guide-to-nodejs-frameworks.html?idg_eid=7a27806a77b63f8e862e336d501b1d14&email_SHA1_lc=b7508e08678f2d682f7dde5093bd1850eaf36e7e&cid=ndr_nlt_idge_insider_newsletter_2017-09-05&utm_source=Sailthru&utm_medium=email&utm_campaign=Insider%20Alert%202017-09-05&utm_term=idge_insider_newsletter)
+- [Art of Node - Intro Guide](https://github.com/maxogden/art-of-node#the-art-of-node)
 
 
 ### Julia 
