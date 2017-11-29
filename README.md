@@ -269,7 +269,11 @@ Sample Q&A:
 ### Portfolio
   > [How to share your data science portfolio](https://www.dataquest.io/blog/how-to-share-data-science-portfolio/)
   > [Github Project - Best Practices](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
-  
+
+
+### Regex
+
+- [Regular-expressions Tutorial](http://www.regular-expressions.info/tutorial.html)
 ----------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages - Data Science Core (Python / R / SQL + Databases + Shell)
 
