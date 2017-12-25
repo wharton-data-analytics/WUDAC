@@ -662,7 +662,7 @@ Overview: [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 
 - [Ray Zhang (OneRaynyDay)](https://oneraynyday.github.io/) - [Github](https://github.com/OneRaynyDay/)
 - [Hacker Paradise](https://www.hackerparadise.org/trips/)
-
+- [Exercise Repo - LearnNPractice](https://github.com/sagarnikam123/learnNPractice)
 
 
 
