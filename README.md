@@ -15,6 +15,8 @@ If you are a member of WUDAC, our private resources are hosted below. Please mak
 **For the long haul**
 
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+- [Python Deliberate Practice](https://github.com/robert8138/python-deliberate-practice)
+- [Advanced R Material](http://adv-r.had.co.nz/)
 
 **Get the tools**
 
