@@ -1,0 +1,5 @@
+Write a command-line program that, given a filename for a text file 
+as input, calculates the frequencies (i.e. number of occurrences) of 
+each distinct word of the file.  The program should then print the 
+frequency distribution to the console as a sequence of "word: freq" 
+pairs (one per line).
